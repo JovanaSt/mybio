@@ -1,0 +1,21 @@
+.container
+{
+	width:100%; 
+ height: auto;
+  }
+
+ .navbar {
+ 	width:100%; 
+ 	height:60px;
+ 	background-color:#AFEEEE;
+ 	margin-top: -6px;
+ 	}
+
+     .navbar ul {
+     	margin-left:500px;
+     } 
+
+ 	 .navbar ul li{
+ 	 	display: inline;
+ 	 	line-height: 60px;
+ 	 }

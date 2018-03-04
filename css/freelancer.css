@@ -102,7 +102,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fff;
+  color:  #66CDAA;
 }
 
 #mainNav .navbar-nav {
@@ -115,7 +115,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18BC9C;
+  color: #0498e2;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -210,7 +210,7 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color: #8abcfc;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
